@@ -1,1 +1,211 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<Style id="red">
+<IconStyle>
+<color>ff0000ff</color>
+</IconStyle>
+</Style>
+<Placemark>
+<name>Darío Martínez Bajo</name>
+<Point>
+<coordinates>
+-5.66152,43.53573,3.05
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>José Alfredo Martínez Vallín</name>
+<Point>
+<coordinates>
+-5.4376300,43.4755500,662
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>María del Carmen Vallín Devita</name>
+<Point>
+<coordinates>
+-5.4176200,43.4752500,662
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>José Vallín González</name>
+<Point>
+<coordinates>
+-5.4171300,43.4253500,662
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> José Vallín González(Def.)</name>
+<styleUrl>#red</styleUrl>
+<Point>
+<coordinates>
+-5.4576300,43.4753500,662
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Ana Devita Rodríguez</name>
+<Point>
+<coordinates>
+13.33561,38.13205,14
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Ana Devita Rodríguez(Def.)</name>
+<styleUrl>#red</styleUrl>
+<Point>
+<coordinates>
+-5.4276300,43.4153500,662
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>José Alfredo Martínez González</name>
+<Point>
+<coordinates>
+-5.4576300,43.4758500,662
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Valentina González Rodríguez</name>
+<Point>
+<coordinates>
+-5.4976300,43.4754500,662
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Valentina González Rodríguez(Def.)</name>
+<styleUrl>#red</styleUrl>
+<Point>
+<coordinates>
+-5.4136300,43.4253500,662
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Eustaquio Martínez Pérez</name>
+<Point>
+<coordinates>
+-5.4176300,43.4753500,662
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Eustaquio Martínez Pérez(Def.)</name>
+<styleUrl>#red</styleUrl>
+<Point>
+<coordinates>
+-5.4176300,43.4753500,662
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>B.Victoria Bajo Estévez</name>
+<Point>
+<coordinates>
+-5.6467600, 43.3293200,260
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Benita Estévez Menéndez</name>
+<Point>
+<coordinates>
+-5.7445600,41.5063300,652
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Victoria Menéndez Menéndez</name>
+<Point>
+<coordinates>
+-5.65009045,43.32845297,308
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Victoria Menéndez Menéndez(Def.)</name>
+<styleUrl>#red</styleUrl>
+<Point>
+<coordinates>
+-5.64500213,43.32808194,273
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Tomás Estévez Sánchez</name>
+<Point>
+<coordinates>
+-5.7245600,41.5213300,652
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Tomás Estévez Sánchez(Def.)</name>
+<styleUrl>#red</styleUrl>
+<Point>
+<coordinates>
+-5.6415600,43.3403500,260
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Hermógenes Bajo de Abajo</name>
+<Point>
+<coordinates>
+-5.6497600,43.3391200,260
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Hermógenes Bajo de Abajo(Def.)</name>
+<styleUrl>#red</styleUrl>
+<Point>
+<coordinates>
+-5.6458600,43.3205200,260
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Celestino Bajo Martínez</name>
+<Point>
+<coordinates>
+-5.6692,43.2888,340
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Celestino Bajo Martínez(Def.)</name>
+<styleUrl>#red</styleUrl>
+<Point>
+<coordinates>
+-5.6647600,43.3623200,260
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Isabel de Abajo Menéndez</name>
+<Point>
+<coordinates>
+-5.6792,43.2988,340
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name> Isabel de Abajo Menéndez(Def.)</name>
+<styleUrl>#red</styleUrl>
+<Point>
+<coordinates>
+-5.6169600,43.3246200,260
+</coordinates>
+</Point>
+</Placemark>
+</Document>
+</kml>
