@@ -3,7 +3,7 @@
 "name": "ubicaciones",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "Name": "Darío Martínez Bajo", "description": null }, "geometry": { "type": "Point", "coordinates": [ -5.66152, 43.53573 ] } },
+{ "type": "Feature", "properties": { "Name": "Darío Martínez Bajo", "description": "Lugar de nacimiento de Darío Martínez Bajo" }, "geometry": { "type": "Point", "coordinates": [ -5.66152, 43.53573 ] } },
 { "type": "Feature", "properties": { "Name": "José Alfredo Martínez Vallín", "description": null }, "geometry": { "type": "Point", "coordinates": [ -5.43763, 43.47555 ] } },
 { "type": "Feature", "properties": { "Name": "María del Carmen Vallín Devita", "description": null }, "geometry": { "type": "Point", "coordinates": [ -5.41762, 43.47525 ] } },
 { "type": "Feature", "properties": { "Name": "José Vallín González", "description": null }, "geometry": { "type": "Point", "coordinates": [ -5.41713, 43.42535 ] } },
